@@ -1,0 +1,101 @@
+h3{
+    color: #525252;
+    letter-spacing: 1px;
+}
+p{color: #727272;
+letter-spacing: 1px;
+line-height: 28px;}
+
+
+.navbar-brand{
+    border: 3px solid white;
+    padding: 4px 10px;
+    color: white !important;
+    font-weight: bolder;
+    
+}
+.navbar{
+    border-bottom: 1px solid white;
+    padding: 15px 0px;
+    background: transparent;
+}
+.nav-item{
+    padding: 0px 20px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:white !important;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+.slider-caption{
+    position: absolute;
+    z-index: 612;
+    bottom: 200px;
+    color: white;
+    text-align: center;
+    right: 0;
+    left: 0;
+}
+.study{
+    padding: 5em 0px ;
+}
+.section-top{
+   border: 4px solid black;
+    padding: 3em 30px;
+    text-align: center;
+    margin-bottom: 92px;
+}
+.section-top h5{
+    color: #ffa400;
+    font-size: 16px;
+}
+
+
+.section-top h1{
+    
+    font-size: 62px;
+    font-weight: bolder;
+}
+hr{
+    
+    width: 120px;
+}
+
+.section-icons{
+color: #ffa400;
+font-size: 36px;
+font-weight: bold;
+}  
+.work-slider{
+font-size: 16px;
+}
+#about{
+    background:url(/images/about-bg.jpg) 50% 0 fixed repeat-y;
+    color: white;
+    background-size: cover;
+padding-top: 120px;
+padding-bottom: 100px;
+
+}
+
+.white{
+    color: rgb(255, 255, 255);
+}
+.accordion .card{
+    background-color: black;
+}
+.acc_btn{
+    color: white;
+    font-weight: bolder;
+}
+.acc_btn:hover{
+    color: rgb(116, 77, 77);
+}
+.tagcount{
+    margin-top: 50px;
+}
+.dash{
+    border-right: 2px solid white;
+    position: static;
+} 
